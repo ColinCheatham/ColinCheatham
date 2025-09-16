@@ -2,8 +2,6 @@
 
 I'm Colin, a dedicated student pursuing a **B.S. in Integrated Information Technology** with a minor in **Cyber Security** at the University of South Carolina.
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on building my portfolio with Python projects and developing my practical IT and networking skills.
 - 🌱 I’m currently learning advanced Python, network security principles, and Linux system administration.
 - 🤔 I’m looking for help with breaking into the cybersecurity industry and finding impactful internship opportunities.
